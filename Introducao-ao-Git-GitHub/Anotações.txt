@@ -1,0 +1,41 @@
+Resumo em tópicos Git/GitHub
+
+->SHA1 - Encriptação
+->Sistema Distribuido
+	BLOBS
+	TREES
+	COMMIT
+->Chave SSH : conexão segura e encriptada - chave pública e privada
+	ssh-keygen -t ed25519 -C "seu email de preferência o mesmo do GitHub"
+	
+->Token
+
+->configurar com git config - passar nome de usuario e email
+
+->git init
+->git add 
+->git commit
+->ls - listar
+->mkdir NOME_DA_PASTA - cria pasta no local
+->ls -a - lista os arquivos ocultos também
+
+->Markdown
+->Typora
+
+->git status:
+Untracked
+Unmodified
+Modified
+Stage
+
+Servidor          
+REMOTE REPOSITORY (GitHub)
+
+Ambiente de Desenvolvimento
+WORKING DIRETORY ---git add * ---> STAGING AREA ---git commit -m "explicação"---> LOCAL REPOSITORY(aqui está pronto para ir pro servidor, é só dar um git push)
+
+->Conflito Merge
+->get pull
+
+->git clone - pode ser por HTML, SSH ou Token
+
